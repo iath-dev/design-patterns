@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "RX0uXcrJXhSz8fXOoyjRx5gRI80bNmnsUalibbWBTA5D5DA+gQUlGv8qYHqlZM0bCAmj0V+ABdev/+QMnuwqPA==",
+  "success": false,
+  "projectFilePath": "E:\\Documents\\Projects\\Curso C#\\DesignPattern\\DesignPattern\\Tools\\Tools.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete Microsoft.AspNetCore.App.Ref. No existe ningún paquete con este id. en los orígenes: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.App.Ref",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete Microsoft.WindowsDesktop.App.Ref. No existe ningún paquete con este id. en los orígenes: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete Microsoft.NETCore.App.Ref. No existe ningún paquete con este id. en los orígenes: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NETCore.App.Ref",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
